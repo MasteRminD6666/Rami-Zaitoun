@@ -51,6 +51,7 @@ threejs-portfolio/
     |-- components/
       |--- Button.tsx
       |--- CanvasLoader.tsx
+      |--- ChromaKeyVideo.tsx
       |--- Cube.tsx
       |--- DemoComputer.tsx
       |--- Developer.tsx
@@ -58,6 +59,7 @@ threejs-portfolio/
       |--- HeroCamera.tsx
       |--- ReactLogo.tsx
       |--- Rings.tsx
+      |--- SelectiveLogoImage.tsx
       |--- Target.tsx
     |-- constants/
       |--- index.ts
@@ -65,13 +67,16 @@ threejs-portfolio/
       |--- utils.ts
     |-- sections/
       |--- About.tsx
+      |--- Certificate.tsx
       |--- Clients.tsx
       |--- Contact.tsx
       |--- Experience.tsx
       |--- Footer.tsx
       |--- Hero.tsx
+      |--- HowIWork.tsx
       |--- Navbar.tsx
       |--- Projects.tsx
+      |--- SkillsGrowth.tsx
     |-- App.tsx
     |-- index.css
     |-- main.tsx
@@ -84,6 +89,7 @@ threejs-portfolio/
   |- eslint.config.js
   |- index.html
   |- netlify.toml
+  |- package-lock.json
   |- package.json
   |- postcss.config.js
   |- tailwind.config.js
