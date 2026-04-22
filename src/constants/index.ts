@@ -291,7 +291,7 @@ export const workExperiences = [
     icon: "https://media.licdn.com/dms/image/v2/C4D0BAQHH_MbG8kmvbQ/company-logo_100_100/company-logo_100_100/0/1639217780337?e=1778112000&v=beta&t=0CJR5UjbwnQ1L1mhjXyujYnX3UOPbIWODD-VuFIdjvM",
     companyUrl: "https://www.linkedin.com/company/77586449/",
     media: [
-      "https://media.licdn.com/dms/image/v2/D4D2DAQGaiBzPRqbjCQ/profile-treasury-image-shrink_1280_1280/profile-treasury-image-shrink_1280_1280/0/1691350954778?e=1776848400&v=beta&t=A4Hcuqgb2-QZfQRlBuCPY34sbhWT74-8igFRAVhY5H0",
+      "https://media.licdn.com/dms/image/v2/D4D2DAQGaiBzPRqbjCQ/profile-treasury-image-shrink_1280_1280/profile-treasury-image-shrink_1280_1280/0/1691350954778?e=1777456800&v=beta&t=nT_z54wuLgOoo_XVzKjyzDDl9QV8YNRHpZw7PY_CTgg",
       "https://media.licdn.com/dms/image/v2/D4D2DAQHED2_3Ffqgsg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1691350840231?e=1777453200&v=beta&t=RHzNP_8pEmPj07jsPBtILcEBqv8ws8R6X8fFtF2wr8I",
       "https://media.licdn.com/dms/image/v2/D4D2DAQHCOnoXTWYqvg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1691350890098?e=1777453200&v=beta&t=iqqktznmMZEnxQTAAojyig_PkMLHGZKFABg6mu_Ml7Y",
     ],
