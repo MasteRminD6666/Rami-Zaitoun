@@ -262,7 +262,7 @@ export const workExperiences = [
     skills: ["React.js", "Next.js", "TypeScript"],
     icon: "https://media.licdn.com/dms/image/v2/D4D0BAQGOIEOAPq7Qkg/company-logo_100_100/company-logo_100_100/0/1696420446880/arabwork_logo?e=1778112000&v=beta&t=H2IfgBjoqq-hckgyiU4j-wLb1xfeFA5-zf2SAdNn2SU",
     companyUrl: "https://www.linkedin.com/company/78982912/",
-    media: [],
+    media: ["/assets/Arabwork1.jpg", "/assets/Arabwork2.jpg"],
     animation: "victory",
   },
   {
@@ -292,8 +292,8 @@ export const workExperiences = [
     companyUrl: "https://www.linkedin.com/company/77586449/",
     media: [
       "https://media.licdn.com/dms/image/v2/D4D2DAQGaiBzPRqbjCQ/profile-treasury-image-shrink_1280_1280/profile-treasury-image-shrink_1280_1280/0/1691350954778?e=1776848400&v=beta&t=A4Hcuqgb2-QZfQRlBuCPY34sbhWT74-8igFRAVhY5H0",
-      "https://media.licdn.com/dms/image/v2/D4D2DAQHCOnoXTWYqvg/profile-treasury-image-shrink_480_480/profile-treasury-image-shrink_480_480/0/1691350890098?e=1776844800&v=beta&t=Kn5gVGAq5jpzVskCvX72Z17h092O5JgDTvY2iBpRxVI",
-      "https://media.licdn.com/dms/image/v2/D4D2DAQHED2_3Ffqgsg/profile-treasury-image-shrink_480_480/profile-treasury-image-shrink_480_480/0/1691350840231?e=1776844800&v=beta&t=dtfqzsdzWktlwLV18tvsqfJC3ulKLb09-IKhWnWTiz8",
+      "https://media.licdn.com/dms/image/v2/D4D2DAQHED2_3Ffqgsg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1691350840231?e=1777453200&v=beta&t=RHzNP_8pEmPj07jsPBtILcEBqv8ws8R6X8fFtF2wr8I",
+      "https://media.licdn.com/dms/image/v2/D4D2DAQHCOnoXTWYqvg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1691350890098?e=1777453200&v=beta&t=iqqktznmMZEnxQTAAojyig_PkMLHGZKFABg6mu_Ml7Y",
     ],
     animation: "salute",
   },

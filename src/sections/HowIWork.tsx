@@ -40,8 +40,9 @@ export const HowIWork = () => {
 
       <div className="mt-8 flex justify-start">
         <a
-          href="/assets/Rami-Zaitoun-Resume.pdf"
-          download
+          href="https://drive.google.com/file/d/10ivPkL3PiwNDoMkNQh5q3PjJ7186JD2N/view?usp=sharing"
+          target="_blank"
+          rel="noreferrer"
           className="inline-flex items-center gap-2 rounded-xl border border-cyan-300/35 bg-cyan-500/10 px-5 py-3 font-medium text-cyan-200 transition-all duration-300 hover:-translate-y-0.5 hover:border-cyan-300/60 hover:bg-cyan-500/20 hover:shadow-[0_0_20px_rgba(34,211,238,0.3)]"
         >
           Download One-Page Resume (PDF)

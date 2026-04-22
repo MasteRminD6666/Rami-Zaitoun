@@ -5,7 +5,8 @@ import { cn } from "../lib/utils";
 
 export const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
-  const resumeHref = "/assets/Rami-Zaitoun-Resume.pdf";
+  const resumeHref =
+    "https://drive.google.com/file/d/10ivPkL3PiwNDoMkNQh5q3PjJ7186JD2N/view?usp=sharing";
 
   const toggleMenu = () => setIsOpen((prevOpen) => !prevOpen);
 
@@ -52,7 +53,8 @@ export const Navbar = () => {
 
           <a
             href={resumeHref}
-            download
+            target="_blank"
+            rel="noreferrer"
             className="nav-resume-btn hidden sm:inline-flex"
           >
             Download Resume
@@ -66,7 +68,8 @@ export const Navbar = () => {
           <NavItems />
           <a
             href={resumeHref}
-            download
+            target="_blank"
+            rel="noreferrer"
             onClick={() => setIsOpen(false)}
             className="nav-resume-btn mt-4 inline-flex w-full justify-center"
           >
