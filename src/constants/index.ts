@@ -307,12 +307,8 @@ export const workExperiences = [
       "Completed an intensive, career-focused training journey and delivered real full-stack projects with a strong foundation in modern web development workflows.",
     skills: ["Time Management", "JavaScript", "Node.js", "React"],
     icon: "https://media.licdn.com/dms/image/v2/D4E0BAQEiq6rJiiBpxQ/company-logo_100_100/company-logo_100_100/0/1736066847910/asacltuc_logo?e=1778112000&v=beta&t=MihVPE5AOdchRaq8p7yTMhKfuw0x5n7kPrg8RaWziig",
-    companyUrl: "https://www.linkedin.com/company/37536654/",
-    media: [
-      "https://media.licdn.com/dms/image/v2/D4D2DAQFGVItEiovdxQ/profile-treasury-image-shrink_1280_1280/profile-treasury-image-shrink_1280_1280/0/1691350506581?e=1776848400&v=beta&t=tVYmb4xd1AiYvxS-NnNArQNgAD4Lk1IvAXJNikj4kQc",
-      "https://media.licdn.com/dms/image/v2/D4D2DAQE1a4KU8ZhoHw/profile-treasury-image-shrink_1280_1280/profile-treasury-image-shrink_1280_1280/0/1691350461122?e=1776848400&v=beta&t=HfqJYM2ks1wiPrAMoSp8IMVsR7tApCThLljRKLVQjI4",
-      "https://media.licdn.com/dms/image/v2/D4D2DAQFlc--SK130CQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1691350550458?e=1776848400&v=beta&t=A2SbzOqDwJDvZg-oW1xhUNfsUXbSwcUYxArSenGDbKs",
-    ],
+    companyUrl: "https://refugee-educationfund.org/en/technology-driven-education-asac/",
+    media: ["/assets/ASAC.jpeg", "/assets/ASAC2.jpeg", "/assets/ASAC3.jpeg"],
     animation: "idle",
   },
 ] as const;
