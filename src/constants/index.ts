@@ -260,7 +260,7 @@ export const workExperiences = [
     title:
       "Building and scaling front-end systems for production platforms with a strong focus on performance, clean architecture, and polished user experience.",
     skills: ["React.js", "Next.js", "TypeScript"],
-    icon: "https://media.licdn.com/dms/image/v2/D4D0BAQGOIEOAPq7Qkg/company-logo_100_100/company-logo_100_100/0/1696420446880/arabwork_logo?e=1778112000&v=beta&t=H2IfgBjoqq-hckgyiU4j-wLb1xfeFA5-zf2SAdNn2SU",
+    icon: "/assets/arabwork_logo.jpeg",
     companyUrl: "https://www.linkedin.com/company/78982912/",
     media: ["/assets/Arabwork1.jpg", "/assets/Arabwork2.jpg"],
     animation: "victory",
@@ -274,7 +274,7 @@ export const workExperiences = [
     title:
       "Delivered features for a high-scale real-time bill presentment and payment ecosystem, helping users complete utility and government payments smoothly across web interfaces.",
     skills: ["Angular", "JavaScript", "TypeScript", "Ionic"],
-    icon: "https://media.licdn.com/dms/image/v2/D4D0BAQHJoUpiNnTq1g/company-logo_100_100/B4DZcDmDiQG8AY-/0/1748111998288?e=1778112000&v=beta&t=-Op1PCOihIXb4HCcWsB3Q6z1M-Ei9gjkT_YPSpQTwa0",
+    icon: "/assets/efwatercom.jpeg",
     companyUrl: "https://www.linkedin.com/company/2434030/",
     media: [],
     animation: "clapping",
@@ -288,7 +288,7 @@ export const workExperiences = [
     title:
       "Built and maintained enterprise front-end products, translating complex business requirements into intuitive user experiences and scalable UI components.",
     skills: ["JavaScript", "Nuxt.js", "Vue.js", "REST APIs"],
-    icon: "https://media.licdn.com/dms/image/v2/C4D0BAQHH_MbG8kmvbQ/company-logo_100_100/company-logo_100_100/0/1639217780337?e=1778112000&v=beta&t=0CJR5UjbwnQ1L1mhjXyujYnX3UOPbIWODD-VuFIdjvM",
+    icon: "/assets/Agents.jpeg",
     companyUrl: "https://www.linkedin.com/company/77586449/",
     media: [
       "/assets/Agents-on-cloud.jpeg",
@@ -306,7 +306,7 @@ export const workExperiences = [
     title:
       "Completed an intensive, career-focused training journey and delivered real full-stack projects with a strong foundation in modern web development workflows.",
     skills: ["Time Management", "JavaScript", "Node.js", "React"],
-    icon: "https://media.licdn.com/dms/image/v2/D4E0BAQEiq6rJiiBpxQ/company-logo_100_100/company-logo_100_100/0/1736066847910/asacltuc_logo?e=1778112000&v=beta&t=MihVPE5AOdchRaq8p7yTMhKfuw0x5n7kPrg8RaWziig",
+    icon: "/assets/asacltuc_logo.jpeg",
     companyUrl: "https://refugee-educationfund.org/en/technology-driven-education-asac/",
     media: ["/assets/ASAC.jpeg", "/assets/ASAC2.jpeg", "/assets/ASAC3.jpeg"],
     animation: "idle",
